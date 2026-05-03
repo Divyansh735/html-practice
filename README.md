@@ -50,7 +50,7 @@ The table displays:
 ## 🔗 How to Run
 
 1. Download or clone the repository
-2. Open `tablee.html` in any browser
+2. Open `index.html` in any browser
 
 ---
 
